@@ -27,6 +27,7 @@ This project leverages real-time object detection using the YOLO model for vario
 - Surveillance
 - Security
 - Human-computer interaction
+
 By utilizing YOLO, this system is capable of identifying objects and humans in real-time with high accuracy, offering potential applications in numerous industries.
 
 ### Future Work
